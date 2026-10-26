@@ -1,0 +1,14 @@
+{
+  "announcement": "🎬 أهلاً بيك في PrimeTV — أي فيلم أو مسلسل أو قناة نضيفها توصلك هنا بدون ما تنزّل تحديث",
+  "movies": [969681, 1003596, 1400940],
+  "series": [96677, 123542],
+  "channels": [
+    {
+      "name": "Al Jazeera",
+      "logo": null,
+      "servers": [
+        { "name": "Server 1", "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8" }
+      ]
+    }
+  ]
+}
